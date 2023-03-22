@@ -2,7 +2,7 @@
 
 <h3 align="center">Back-end Software Engineer</h3>
 
-- 🌱 I’m currently learning **.Spring, Python, Java.**
+- 🌱 I’m currently learning Spring, Python, Java
 
 - 🔭 I’m currently working on [EY](https://www.ey.com/pt_br)
 
